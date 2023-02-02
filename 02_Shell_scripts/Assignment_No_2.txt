@@ -1,0 +1,16 @@
+Theory:
+             1) What is Shell (Linux kernel architecture diagram)
+             2) Different types of shells
+
+Problem statements for shell scripting:
+2a) Write a shell script to check user is root user or not
+        [HINT:  study "id" command in linux]
+2b) Write a shell script to install any particular software (ex: java or python)
+2c)
+Write a shell script to check disk usage of the system and if disk
+usage is more than 90% it should send an email to system admin. This
+script should run everyday at 8:00 AM.
+
+        [HINT:  study "du", "sed", crontab, mail in linux]
+2d) write a shell script to take mysql database server backup. This script should run weekly on every sunday at 11:00 PM.
+        [HINT: study "mysql" dump, crontab in linux]

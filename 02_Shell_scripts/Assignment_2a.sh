@@ -1,5 +1,7 @@
 #!bin/sh
 
+# Write a shell script to check user is root user or not 
+
 echo "Enter user"
 read name
 
